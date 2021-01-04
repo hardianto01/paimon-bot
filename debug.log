@@ -1,0 +1,82 @@
+[0104/081922.748:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[0104/091516.998:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0104/091517.045:ERROR:file_io_win.cc(162)] CreateFile C:\Users\Intel-PC\AppData\Local\Temp\puppeteer_dev_chrome_profile-LxHrrV\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[0104/091517.046:ERROR:file_io_win.cc(171)] CreateFile C:\Users\Intel-PC\AppData\Local\Temp\puppeteer_dev_chrome_profile-LxHrrV\Crashpad\reports\e1b579bf-ad48-4ae0-9d69-dc413d292995.dmp: The system cannot find the path specified. (0x3)
+[0104/091517.046:ERROR:crash_report_exception_handler.cc(99)] PrepareNewCrashReport failed
+[0104/091728.749:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0104/091728.780:ERROR:file_io_win.cc(162)] CreateFile C:\Users\Intel-PC\AppData\Local\Temp\puppeteer_dev_chrome_profile-uRY1Db\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[0104/091728.780:ERROR:file_io_win.cc(171)] CreateFile C:\Users\Intel-PC\AppData\Local\Temp\puppeteer_dev_chrome_profile-uRY1Db\Crashpad\reports\ff917da5-bfa7-4600-8ffa-6f1af1d03e55.dmp: The system cannot find the path specified. (0x3)
+[0104/091728.780:ERROR:crash_report_exception_handler.cc(99)] PrepareNewCrashReport failed
+[0104/092408.601:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0104/092408.613:ERROR:file_io_win.cc(162)] CreateFile C:\Users\Intel-PC\AppData\Local\Temp\puppeteer_dev_chrome_profile-hiAim0\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[0104/092408.613:ERROR:file_io_win.cc(171)] CreateFile C:\Users\Intel-PC\AppData\Local\Temp\puppeteer_dev_chrome_profile-hiAim0\Crashpad\reports\078f5465-fbad-4a37-8d2e-3e59f8d33f1a.dmp: The system cannot find the path specified. (0x3)
+[0104/092408.613:ERROR:crash_report_exception_handler.cc(99)] PrepareNewCrashReport failed
+[0104/092734.156:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0104/092734.165:ERROR:file_io_win.cc(162)] CreateFile C:\Users\Intel-PC\AppData\Local\Temp\puppeteer_dev_chrome_profile-X0yREC\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[0104/092734.165:ERROR:file_io_win.cc(171)] CreateFile C:\Users\Intel-PC\AppData\Local\Temp\puppeteer_dev_chrome_profile-X0yREC\Crashpad\reports\26354d32-ea0b-4083-87c1-e421b1f318ac.dmp: The system cannot find the path specified. (0x3)
+[0104/092734.165:ERROR:crash_report_exception_handler.cc(99)] PrepareNewCrashReport failed
+[0104/092953.864:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0104/092953.879:ERROR:file_io_win.cc(162)] CreateFile C:\Users\Intel-PC\AppData\Local\Temp\puppeteer_dev_chrome_profile-epPj7p\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[0104/092953.879:ERROR:file_io_win.cc(171)] CreateFile C:\Users\Intel-PC\AppData\Local\Temp\puppeteer_dev_chrome_profile-epPj7p\Crashpad\reports\fb4bb7e6-075b-4e2f-a97b-cc3b1b7d1e3f.dmp: The system cannot find the path specified. (0x3)
+[0104/092953.880:ERROR:crash_report_exception_handler.cc(99)] PrepareNewCrashReport failed
+[0104/094001.300:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0104/094001.330:ERROR:file_io_win.cc(162)] CreateFile C:\Users\Intel-PC\AppData\Local\Temp\puppeteer_dev_chrome_profile-OUZZvx\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[0104/094001.330:ERROR:file_io_win.cc(171)] CreateFile C:\Users\Intel-PC\AppData\Local\Temp\puppeteer_dev_chrome_profile-OUZZvx\Crashpad\reports\8a4e5b00-72e6-4ea9-aef4-180b643e2c37.dmp: The system cannot find the path specified. (0x3)
+[0104/094001.330:ERROR:crash_report_exception_handler.cc(99)] PrepareNewCrashReport failed
+[0104/094653.861:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0104/094653.877:ERROR:file_io_win.cc(162)] CreateFile C:\Users\Intel-PC\AppData\Local\Temp\puppeteer_dev_chrome_profile-qePPBJ\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[0104/094653.903:ERROR:file_io_win.cc(171)] CreateFile C:\Users\Intel-PC\AppData\Local\Temp\puppeteer_dev_chrome_profile-qePPBJ\Crashpad\reports\658c2503-6ae0-40ce-beea-01611a40e44a.dmp: The system cannot find the path specified. (0x3)
+[0104/094653.904:ERROR:crash_report_exception_handler.cc(99)] PrepareNewCrashReport failed
+[0104/094733.118:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0104/094733.164:ERROR:file_io_win.cc(162)] CreateFile C:\Users\Intel-PC\AppData\Local\Temp\puppeteer_dev_chrome_profile-hkbc23\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[0104/094733.165:ERROR:file_io_win.cc(171)] CreateFile C:\Users\Intel-PC\AppData\Local\Temp\puppeteer_dev_chrome_profile-hkbc23\Crashpad\reports\4e6c6c57-0307-4279-aabf-aef5af1f93bb.dmp: The system cannot find the path specified. (0x3)
+[0104/094733.165:ERROR:crash_report_exception_handler.cc(99)] PrepareNewCrashReport failed
+[0104/094954.424:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0104/094954.432:ERROR:file_io_win.cc(162)] CreateFile C:\Users\Intel-PC\AppData\Local\Temp\puppeteer_dev_chrome_profile-z0PFh0\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[0104/094954.433:ERROR:file_io_win.cc(171)] CreateFile C:\Users\Intel-PC\AppData\Local\Temp\puppeteer_dev_chrome_profile-z0PFh0\Crashpad\reports\a7c3e722-43c0-4167-b83f-47ad3851b846.dmp: The system cannot find the path specified. (0x3)
+[0104/094954.433:ERROR:crash_report_exception_handler.cc(99)] PrepareNewCrashReport failed
+[0104/095147.951:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0104/095147.959:ERROR:file_io_win.cc(162)] CreateFile C:\Users\Intel-PC\AppData\Local\Temp\puppeteer_dev_chrome_profile-QgD82U\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[0104/095147.959:ERROR:file_io_win.cc(171)] CreateFile C:\Users\Intel-PC\AppData\Local\Temp\puppeteer_dev_chrome_profile-QgD82U\Crashpad\reports\683045ef-2597-4ab0-84f3-9a8af96d483f.dmp: The system cannot find the path specified. (0x3)
+[0104/095147.959:ERROR:crash_report_exception_handler.cc(99)] PrepareNewCrashReport failed
+[0104/095410.336:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0104/095410.344:ERROR:file_io_win.cc(162)] CreateFile C:\Users\Intel-PC\AppData\Local\Temp\puppeteer_dev_chrome_profile-aOKjoB\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[0104/095410.345:ERROR:file_io_win.cc(171)] CreateFile C:\Users\Intel-PC\AppData\Local\Temp\puppeteer_dev_chrome_profile-aOKjoB\Crashpad\reports\4e488790-4f25-4295-bc38-a7b8bcb1b9d9.dmp: The system cannot find the path specified. (0x3)
+[0104/095410.345:ERROR:crash_report_exception_handler.cc(99)] PrepareNewCrashReport failed
+[0104/095708.721:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0104/095708.728:ERROR:file_io_win.cc(162)] CreateFile C:\Users\Intel-PC\AppData\Local\Temp\puppeteer_dev_chrome_profile-lBVJtT\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[0104/095708.729:ERROR:file_io_win.cc(171)] CreateFile C:\Users\Intel-PC\AppData\Local\Temp\puppeteer_dev_chrome_profile-lBVJtT\Crashpad\reports\ff68f637-94a2-4ec2-a446-f0756fcfea50.dmp: The system cannot find the path specified. (0x3)
+[0104/095708.729:ERROR:crash_report_exception_handler.cc(99)] PrepareNewCrashReport failed
+[0104/100734.965:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[0104/101553.687:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0104/101553.693:ERROR:file_io_win.cc(162)] CreateFile C:\Users\Intel-PC\AppData\Local\Temp\puppeteer_dev_chrome_profile-z8O4c5\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[0104/101553.694:ERROR:file_io_win.cc(171)] CreateFile C:\Users\Intel-PC\AppData\Local\Temp\puppeteer_dev_chrome_profile-z8O4c5\Crashpad\reports\d37f4831-ba09-428f-9da3-cb8ec6393baa.dmp: The system cannot find the path specified. (0x3)
+[0104/101553.694:ERROR:crash_report_exception_handler.cc(99)] PrepareNewCrashReport failed
+[0104/102609.245:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[0104/102939.214:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0104/102939.221:ERROR:file_io_win.cc(162)] CreateFile C:\Users\Intel-PC\AppData\Local\Temp\puppeteer_dev_chrome_profile-zWRWY8\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[0104/102939.221:ERROR:file_io_win.cc(171)] CreateFile C:\Users\Intel-PC\AppData\Local\Temp\puppeteer_dev_chrome_profile-zWRWY8\Crashpad\reports\427fd128-cb5f-4524-af9b-034e812e8459.dmp: The system cannot find the path specified. (0x3)
+[0104/102939.221:ERROR:crash_report_exception_handler.cc(99)] PrepareNewCrashReport failed
+[0104/104332.305:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[0104/112438.493:ERROR:file_io_win.cc(162)] CreateFile C:\Users\Intel-PC\AppData\Local\Temp\puppeteer_dev_chrome_profile-BiCFLc\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[0104/112438.493:ERROR:file_io_win.cc(171)] CreateFile C:\Users\Intel-PC\AppData\Local\Temp\puppeteer_dev_chrome_profile-BiCFLc\Crashpad\reports\5823b161-cac2-4144-b76b-d40c6ebf9ede.dmp: The system cannot find the path specified. (0x3)
+[0104/112438.493:ERROR:crash_report_exception_handler.cc(99)] PrepareNewCrashReport failed
+[0104/112832.049:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0104/112832.057:ERROR:file_io_win.cc(162)] CreateFile C:\Users\Intel-PC\AppData\Local\Temp\puppeteer_dev_chrome_profile-sSHOYD\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[0104/112832.057:ERROR:file_io_win.cc(171)] CreateFile C:\Users\Intel-PC\AppData\Local\Temp\puppeteer_dev_chrome_profile-sSHOYD\Crashpad\reports\76b896f1-1be4-43c8-badd-460bdd4454a3.dmp: The system cannot find the path specified. (0x3)
+[0104/112832.058:ERROR:crash_report_exception_handler.cc(99)] PrepareNewCrashReport failed
+[0104/114113.794:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0104/114113.839:ERROR:file_io_win.cc(162)] CreateFile C:\Users\Intel-PC\AppData\Local\Temp\puppeteer_dev_chrome_profile-43Mnvi\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[0104/114113.843:ERROR:file_io_win.cc(171)] CreateFile C:\Users\Intel-PC\AppData\Local\Temp\puppeteer_dev_chrome_profile-43Mnvi\Crashpad\reports\05a3351e-9bb4-4bc7-8d98-d4feae09088b.dmp: The system cannot find the path specified. (0x3)
+[0104/114113.843:ERROR:crash_report_exception_handler.cc(99)] PrepareNewCrashReport failed
+[0104/115140.096:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[0104/115520.018:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0104/115520.023:ERROR:file_io_win.cc(162)] CreateFile C:\Users\Intel-PC\AppData\Local\Temp\puppeteer_dev_chrome_profile-fgO9oz\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[0104/115520.023:ERROR:file_io_win.cc(171)] CreateFile C:\Users\Intel-PC\AppData\Local\Temp\puppeteer_dev_chrome_profile-fgO9oz\Crashpad\reports\920f5f08-bba4-43af-903c-919962b89437.dmp: The system cannot find the path specified. (0x3)
+[0104/115520.023:ERROR:crash_report_exception_handler.cc(99)] PrepareNewCrashReport failed
+[0104/115942.877:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0104/115942.915:ERROR:file_io_win.cc(162)] CreateFile C:\Users\Intel-PC\AppData\Local\Temp\puppeteer_dev_chrome_profile-DJUryJ\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[0104/115942.916:ERROR:file_io_win.cc(171)] CreateFile C:\Users\Intel-PC\AppData\Local\Temp\puppeteer_dev_chrome_profile-DJUryJ\Crashpad\reports\f4d77cf5-d028-4cce-ad18-8356d16ac321.dmp: The system cannot find the path specified. (0x3)
+[0104/115942.916:ERROR:crash_report_exception_handler.cc(99)] PrepareNewCrashReport failed
+[0104/121006.547:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[0104/123822.609:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
