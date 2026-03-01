@@ -17,9 +17,9 @@
   "homepage": "https://github.com/ArugaZ/whatsapp-bot",
   "license": "ISC",
   "dependencies": {
-    "@open-wa/wa-automate": "^3.1.0",
+    "@open-wa/wa-automate": "^4.76.0",
     "app-root-path": "^3.0.0",
-    "axios": "^0.21.0",
+    "axios": "^1.13.5",
     "brainly-scraper": "^1.0.3",
     "chalk": "^4.1.0",
     "cheerio": "^1.0.0-rc.3",
